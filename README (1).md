@@ -1,27 +1,69 @@
-# Sales Performance Dashboard
+# 📊 Sales Performance Dashboard
 
-This repository contains resources for analyzing and visualizing sales performance data.
+This repository contains a **Power BI report** (`sales performance.pbix`) built using the dataset `pb-sales-data-blank.xlsx`.  
+The dashboard provides actionable insights into sales performance, revenue trends, and customer analysis.
 
-## Files Included
-- `pb-sales-data-blank.xlsx`: Raw sales data file (Excel format).
-- `sales performance.pbix`: Power BI report file with interactive dashboards.
+---
 
-## Requirements
-- Microsoft Power BI Desktop (to open `.pbix` file)
-- Microsoft Excel or any compatible spreadsheet software (to open `.xlsx` file)
+## 📂 Dataset Information
+The dataset includes sales transaction records with the following key fields:
 
-## Usage
-1. Open `pb-sales-data-blank.xlsx` to review the raw sales data.
-2. Open `sales performance.pbix` in Power BI Desktop to explore the dashboard and visual insights.
+- **Sales Person** → Name of the salesperson handling the transaction.  
+- **Geography** → Region/territory where the sales occurred.  
+- **Product** → Product sold.  
+- **Date** → Transaction date.  
+- **Amount** → Total sales amount (revenue).  
+- **Customers** → Number of customers involved in the sale.  
+- **Boxes** → Number of boxes sold (units/quantity measure).  
 
-## Features of Power BI Dashboard
-- Sales performance overview
-- Regional sales analysis
-- Product-wise performance
-- Time-based sales trends
+This structured data allows for detailed breakdowns of sales by **person, region, product, and time**.
+
+---
+
+## 🚀 Dashboard Features
+- **Overall Sales Overview**  
+  View total revenue, number of customers, and units sold.
+
+- **Regional Performance**  
+  Compare sales by geography and evaluate territory effectiveness.
+
+- **Salesperson Insights**  
+  Track the performance of individual salespeople against targets.
+
+- **Product Trends**  
+  Identify top-performing and low-performing products.
+
+- **Time Series Analysis**  
+  Explore monthly, quarterly, or yearly sales performance.
+
+---
+
+## 🛠 Requirements
+- **Power BI Desktop** (latest version recommended)  
+  👉 [Download Power BI](https://powerbi.microsoft.com/desktop/)
+
+---
+
+## ▶️ How to Use
+1. Download and install **Power BI Desktop**.  
+2. Clone or download this repository.  
+3. Open the file `sales performance.pbix` in Power BI Desktop.  
+4. If prompted, update the data source to point to your local copy of `pb-sales-data-blank.xlsx`.  
+5. Refresh the dataset to load the latest values.  
+6. Interact with the dashboard visuals to explore insights.
+
+---
+
+## 📈 Possible Use Cases
+- Monitoring **KPIs** for sales teams.  
+- Comparing sales performance across **regions or products**.  
+- Identifying **high-value customers** and **top-performing products**.  
+- Supporting **decision-making** for sales and marketing strategy.  
+
+
+---
 
 ## Contributing
 Feel free to fork this repository and enhance the dashboard or data.
 
-## License
-This project is licensed under the MIT License.
+---
