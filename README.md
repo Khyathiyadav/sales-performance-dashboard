@@ -57,10 +57,17 @@ This structured data allows for detailed breakdowns of sales by **person, region
 ## 📈 Possible Use Cases
 - Monitoring **KPIs** for sales teams.  
 - Comparing sales performance across **regions or products**.  
-- Identifying **high-value customers** and **top-performing products**.  
+- Identifying **high-value customers** and **top-performing products**.
 - Supporting **decision-making** for sales and marketing strategy.  
 
 ---
+
+## 📸 Dashboard Preview
+
+Here’s a sample view of the Power BI Sales Performance Dashboard:
+![Alt text](https://github.com/Khyathiyadav/sales-performance-dashboard/blob/main/dashboard.png.png)
+
+--- 
 
 ## 📧 Contact
 For any questions or contributions, feel free to open an issue or contact the maintainer.
