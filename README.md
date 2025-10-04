@@ -69,7 +69,3 @@ Here’s a sample view of the Power BI Sales Performance Dashboard:
 
 --- 
 
-## 📧 Contact
-For any questions or contributions, feel free to open an issue or contact the maintainer.
-
----
