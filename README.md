@@ -1,11 +1,11 @@
-# 📊 Sales Performance Dashboard
+#  Sales Performance Dashboard
 
 This repository contains a **Power BI report** (`sales performance.pbix`) built using the dataset `pb-sales-data-blank.xlsx`.  
 The dashboard provides actionable insights into sales performance, revenue trends, and customer analysis.
 
 ---
 
-## 📂 Dataset Information
+## Dataset Information
 The dataset includes sales transaction records with the following key fields:
 
 - **Sales Person** → Name of the salesperson handling the transaction.  
@@ -20,7 +20,7 @@ This structured data allows for detailed breakdowns of sales by **person, region
 
 ---
 
-## 🚀 Dashboard Features
+## Dashboard Features
 - **Overall Sales Overview**  
   View total revenue, number of customers, and units sold.
 
@@ -38,13 +38,13 @@ This structured data allows for detailed breakdowns of sales by **person, region
 
 ---
 
-## 🛠 Requirements
+## Requirements
 - **Power BI Desktop** (latest version recommended)  
-  👉 [Download Power BI](https://powerbi.microsoft.com/desktop/)
+  [Download Power BI](https://powerbi.microsoft.com/desktop/)
 
 ---
 
-## ▶️ How to Use
+## How to Use
 1. Download and install **Power BI Desktop**.  
 2. Clone or download this repository.  
 3. Open the file `sales performance.pbix` in Power BI Desktop.  
@@ -54,7 +54,7 @@ This structured data allows for detailed breakdowns of sales by **person, region
 
 ---
 
-## 📈 Possible Use Cases
+## Possible Use Cases
 - Monitoring **KPIs** for sales teams.  
 - Comparing sales performance across **regions or products**.  
 - Identifying **high-value customers** and **top-performing products**.
@@ -62,10 +62,14 @@ This structured data allows for detailed breakdowns of sales by **person, region
 
 ---
 
-## 📸 Dashboard Preview
+## Dashboard Preview
 
 Here’s a sample view of the Power BI Sales Performance Dashboard:
 ![Alt text](https://github.com/Khyathiyadav/sales-performance-dashboard/blob/main/dashboard.png.png)
 
 --- 
 
+## License
+This project is licensed under the MIT License.
+
+---
